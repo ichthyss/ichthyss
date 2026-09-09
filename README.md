@@ -2,7 +2,7 @@
 
 I'm Anan, a software engineering student, cybersecurity and backend development enthusiast.
 
-I'm currently working in developing my cybersecurity skills, and building useful projects.
+I'm currently working on developing my cybersecurity skills and building useful projects.
 <!--
 **ichthyss/ichthyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
